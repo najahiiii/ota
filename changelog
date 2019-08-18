@@ -1,3 +1,9 @@
-AOSiP-Pizza 2018-08-10
+AOSiP-Pizza 2018-08-18
 ---
-- Added a bunch of switch style
+- Droped Fruity pebles (accent colors)
+- Added RGB Accent colors
+- Added recorder
+- Added support internal sound recording
+- Kernel optimizations
+- Kernel compiled with AOSP Clang 9.0.6
+- Added some bugs to fix later
